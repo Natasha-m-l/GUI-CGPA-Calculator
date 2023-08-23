@@ -23,7 +23,7 @@ python cgpa_calculator.py
 5. The calculated CGPA will be displayed on the screen.
 
 ## Screenshots
-![Uploading image.png…]()
+![screenshot](Cgpa calc.png)
 
 
 ## Notes
