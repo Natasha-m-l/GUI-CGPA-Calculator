@@ -22,6 +22,10 @@ python cgpa_calculator.py
 4. Once all courses are added, click the "Calculate CGPA" button.
 5. The calculated CGPA will be displayed on the screen.
 
+## Screenshots
+![Uploading image.png…]()
+
+
 ## Notes
 1. This application uses the Tkinter library for creating the graphical user interface.
 2. The CGPA is calculated using the formula: CGPA = (Sum of (Course Credits * Grade Points)) / Total Credits
